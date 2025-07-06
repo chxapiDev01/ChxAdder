@@ -1,7 +1,7 @@
 # 🔐 CHX Free Fire Token Setter Tool
 
 > 🎯 Set 15 item tokens in your Free Fire account using just 5 IDs, with animated UI, AES encryption, and Protobuf magic.  
-> 💥 Built with love by [ChxDev Ai](https://www.youtube.com/@chxdevai) – Your go-to source for ChatGPT, mobile coding, and hacking tutorials!
+> 💥 Built with love by [@teamxcutehack](https://www.youtube.com/@teamxcutehack) – Your go-to source for ChatGPT, mobile coding, and hacking tutorials!
 
 ---
 
@@ -25,11 +25,7 @@ pip install pycryptodome
 pip install requests
 pip install protobuf==4.21.12
 ```
----
 
-### 🧾 Part 2 (Continue from above)
-
-```markdown
 ---
 
 ## 🚀 How to Run the Script
@@ -69,38 +65,33 @@ pip install protobuf==4.21.12
 🔹 Item ID 5: 10005
 
 ✅ All 15 tokens applied successfully with only 5 inputs!
-
-⚠️ Disclaimer
-
-> This tool is for educational purposes only.
-Misuse or abuse may lead to permanent account bans. Use wisely.
-
+```
 
 ---
 
-🙌 Special Thanks
+## ⚠️ Disclaimer
 
-Tool by ChxDev Ai
-📺 YouTube: @chxdevai
-💬 Telegram: @chxhub
-
+> This tool is for **educational purposes only**.  
+> Misuse or abuse may lead to permanent account bans. Use wisely.
 
 ---
 
-💡 Coming Soon:
+## 🙌 Special Thanks
 
-🎯 FF Auto Like Bot
-
-🔥 YouTube Live Command Bot
-
-🧠 AI APK Builder (Mobile Friendly)
-
-🎮 Game UI Tools & Mod Interfaces
-
-
+Tool by **@teamxcutehack**  
+📺 YouTube: [@teamxcutehack](https://www.youtube.com/@teamxcutehack)  
+💬 Telegram: [@NEVER_DELETE](https://t.me/NEVER_DELETE)  
+📸 Instagram: [@Cutehack99yt](https://instagram.com/Cutehack99yt)
 
 ---
 
-> 💬 Subscribe & support 👉 https://www.youtube.com/@chxdevai
+## 💡 Coming Soon:
 
+- 🎯 FF Auto Like Bot  
+- 🔥 YouTube Live Command Bot  
+- 🧠 AI APK Builder (Mobile Friendly)  
+- 🎮 Game UI Tools & Mod Interfaces
 
+---
+
+> 💬 Subscribe & support 👉 https://www.youtube.com/@teamxcutehack
