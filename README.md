@@ -23,7 +23,8 @@ Open **Pydroid3 > Terminal** and run:
 ```bash
 pip install pycryptodome
 pip install requests
-pip install protobuf==4.21.12
+pip install protobuf
+pip install --upgrade protobuf
 ```
 
 ---
