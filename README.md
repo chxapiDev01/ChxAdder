@@ -24,7 +24,7 @@ Open **Pydroid3 > Terminal** and run:
 pip install pycryptodome
 pip install requests
 pip install protobuf==4.21.12
-
+```
 ---
 
 ### 🧾 Part 2 (Continue from above)
